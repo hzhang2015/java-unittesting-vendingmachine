@@ -2,3 +2,5 @@
 .idea/tasks.xml
 
 out
+target/
+*.iml
